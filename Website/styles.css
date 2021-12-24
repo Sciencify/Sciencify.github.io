@@ -1,0 +1,15 @@
+.center{
+    margin: 5% auto;
+    width: 50%;
+    display: block;
+}
+
+.para-box{
+    padding: 1rem
+}
+
+body{
+    background-image: url('background_doodles.jpg');
+    background-size: 50%;
+    cursor: auto;
+}
