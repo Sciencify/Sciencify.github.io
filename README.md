@@ -1,2 +1,2 @@
 # Sciencify.github.io
-Project website
+Sciencify Project website
