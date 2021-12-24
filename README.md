@@ -1,2 +1,5 @@
 # Sciencify.github.io
-Sciencify Project website
+The website for Sciencify.
+
+# About Us
+Sciencify is a company that introduces you to the wonderful world of science.
