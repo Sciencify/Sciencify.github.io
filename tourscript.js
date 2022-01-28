@@ -8,35 +8,9 @@ var transform = null;
 
 var tours = [
     {
-        name: "Our Solar System",
+        name: "Our Solar System (Coming Soon)",
         currentPos: 0,
         places: [
-            {
-                name: "x",
-                imgName: "logo.png",
-                btns: [
-                    {
-                        x: 50,
-                        y: 10,
-                        w: 100,
-                        h: 100,
-                        dest: 1
-                    }
-                ],
-            },
-            {
-                name: "y",
-                imgName: "Yellow.png",
-                btns: [
-                    {
-                        x: 50,
-                        y: 10,
-                        w: 100,
-                        h: 100,
-                        dest: 0
-                    }
-                ],
-            }
         ]
     },
     {
@@ -429,7 +403,7 @@ var tours = [
         ]
     },
     {
-        name: "Stars",
+        name: "Stars (Coming Soon)",
     },
     {
         name: "Exotic Objects",
@@ -592,10 +566,10 @@ var tours = [
         ]
     },
     {
-        name: "Life In Space"
+        name: "Life In Space (Coming Soon)"
     },
     {
-        name: "Our Universe"
+        name: "Our Universe (Coming Soon)"
     }
 ];
 
@@ -729,8 +703,3 @@ window.setInterval(function(){
 
     
 }, 10)
-
-
-
-
-
