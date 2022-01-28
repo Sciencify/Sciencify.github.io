@@ -45,7 +45,7 @@ var tours = [
         places: [
             {
                 name: "Tour Home",
-                imgName: "galaxies/Slide1.png",
+                imgName: "galaxies/Slide1.PNG",
                 btns: [
                     {
                         x: 25,
@@ -107,7 +107,7 @@ var tours = [
             },
             {
                 name: "Galaxy Facts",
-                imgName: "galaxies/Slide2.png",
+                imgName: "galaxies/Slide2.PNG",
                 btns: [
                     {
                         x: 20,
@@ -148,7 +148,7 @@ var tours = [
             },
             {
                 name: "More Galaxy Facts",
-                imgName: "galaxies/Slide3.png",
+                imgName: "galaxies/Slide3.PNG",
                 btns: [
                     {
                         x: 20,
@@ -182,7 +182,7 @@ var tours = [
             },
             {
                 name: "Spiral Galaxies",
-                imgName: "galaxies/Slide4.png",
+                imgName: "galaxies/Slide4.PNG",
                 btns: [
                     {
                         x: 50,
@@ -214,7 +214,7 @@ var tours = [
                     },
                     {
                 name: "More Galaxy Facts",
-                imgName: "galaxies/Slide3.png",
+                imgName: "galaxies/Slide3.PNG",
                 btns: [
                     {
                         x: 20,
@@ -251,7 +251,7 @@ var tours = [
             },
             {
                 name: "Irregular Galaxies",
-                imgName: "galaxies/Slide5_new.png",
+                imgName: "galaxies/Slide5_new.PNG",
                 btns: [
                     {
                         x: 97,
@@ -285,7 +285,7 @@ var tours = [
             },
             {
                 name: "Elliptical Galaxies",
-                imgName: "galaxies/Slide6.png",
+                imgName: "galaxies/Slide6.PNG",
                 btns: [
                     {
                         x: 0,
@@ -319,7 +319,7 @@ var tours = [
             },
             {
                 name: "Active Galaxies",
-                imgName: "galaxies/Slide7.png",
+                imgName: "galaxies/Slide7.PNG",
                 btns: [
                     {
                         x: 55,
@@ -353,7 +353,7 @@ var tours = [
             },
             {
                 name: "The Milky Way",
-                imgName: "galaxies/Slide8.png",
+                imgName: "galaxies/Slide8.PNG",
                 btns: [
                     {
                         x: 0,
@@ -394,7 +394,7 @@ var tours = [
             },
             {
                 name: "Andromeda",
-                imgName: "galaxies/Slide9.png",
+                imgName: "galaxies/Slide9.PNG",
                 btns: [
                     {
                         x: 40,
