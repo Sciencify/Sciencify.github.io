@@ -45,7 +45,7 @@ var tours = [
         places: [
             {
                 name: "Tour Home",
-                imgName: "galaxies/Slide1.PNG",
+                imgName: "galaxies/Slide1.png",
                 btns: [
                     {
                         x: 25,
@@ -107,7 +107,7 @@ var tours = [
             },
             {
                 name: "Galaxy Facts",
-                imgName: "galaxies/Slide2.PNG",
+                imgName: "galaxies/Slide2.png",
                 btns: [
                     {
                         x: 20,
@@ -148,7 +148,7 @@ var tours = [
             },
             {
                 name: "More Galaxy Facts",
-                imgName: "galaxies/Slide3.PNG",
+                imgName: "galaxies/Slide3.png",
                 btns: [
                     {
                         x: 20,
@@ -182,7 +182,7 @@ var tours = [
             },
             {
                 name: "Spiral Galaxies",
-                imgName: "galaxies/Slide4.PNG",
+                imgName: "galaxies/Slide4.png",
                 btns: [
                     {
                         x: 50,
@@ -214,7 +214,7 @@ var tours = [
                     },
                     {
                 name: "More Galaxy Facts",
-                imgName: "galaxies/Slide3.PNG",
+                imgName: "galaxies/Slide3.png",
                 btns: [
                     {
                         x: 20,
@@ -251,7 +251,7 @@ var tours = [
             },
             {
                 name: "Irregular Galaxies",
-                imgName: "galaxies/Slide5_new.PNG",
+                imgName: "galaxies/Slide5_new.png",
                 btns: [
                     {
                         x: 97,
@@ -285,7 +285,7 @@ var tours = [
             },
             {
                 name: "Elliptical Galaxies",
-                imgName: "galaxies/Slide6.PNG",
+                imgName: "galaxies/Slide6.png",
                 btns: [
                     {
                         x: 0,
@@ -319,7 +319,7 @@ var tours = [
             },
             {
                 name: "Active Galaxies",
-                imgName: "galaxies/Slide7.PNG",
+                imgName: "galaxies/Slide7.png",
                 btns: [
                     {
                         x: 55,
@@ -353,7 +353,7 @@ var tours = [
             },
             {
                 name: "The Milky Way",
-                imgName: "galaxies/Slide8.PNG",
+                imgName: "galaxies/Slide8.png",
                 btns: [
                     {
                         x: 0,
@@ -394,7 +394,7 @@ var tours = [
             },
             {
                 name: "Andromeda",
-                imgName: "galaxies/Slide9.PNG",
+                imgName: "galaxies/Slide9.png",
                 btns: [
                     {
                         x: 40,
@@ -429,10 +429,167 @@ var tours = [
         ]
     },
     {
-        name: "Stars"
+        name: "Stars",
     },
     {
-        name: "Exoplanets"
+        name: "Exotic Objects",
+        currentPos: 0,
+        places: [
+            {
+                name: "Tour Home",
+                imgName: "exoticObjects/Slide1.PNG",
+                btns: [
+                    {
+                        x: 0,
+                        y: 0,
+                        w: 1280,
+                        h: 255,
+                        dest: 1
+                    },
+                    {
+                        x: 0,
+                        y: 255,
+                        w: 1280,
+                        h: 235,
+                        dest: 4
+                    },
+                    {
+                        x: 0,
+                        y: 490,
+                        w: 1280,
+                        h: 230,
+                        dest: 7
+                    },
+                ],
+            },
+            {
+                name: "Black Holes 1",
+                imgName: "exoticObjects/Slide2.PNG",
+                btns: [
+                    {
+                        x: 995,
+                        y: 645,
+                        w: 285,
+                        h: 75,
+                        dest: 2
+                    },
+                    
+                ],
+            },{
+                name: "Black Holes 2",
+                imgName: "exoticObjects/Slide3.PNG",
+                btns: [
+                    {
+                        x: 1015,
+                        y: 600,
+                        w: 265,
+                        h: 95,
+                        dest: 3
+                    },
+                ],
+            },{
+                name: "Black Holes 3",
+                imgName: "exoticObjects/Slide4.PNG",
+                btns: [
+                    {
+                        x: 20,
+                        y: 20,
+                        w: 265,
+                        h: 90,
+                        dest: 0
+                    },
+                    {
+                        x: 960,
+                        y: 65,
+                        w: 255,
+                        h: 180,
+                        dest: 7
+                    },
+                ],
+            },{
+                name: "Neutron Stars 1",
+                imgName: "exoticObjects/Slide5.PNG",
+                btns: [
+                    {
+                        x: 995,
+                        y: 600,
+                        w: 265,
+                        h: 95,
+                        dest: 5
+                    },
+                ],
+            },
+            {
+                name: "Neutron Stars 2",
+                imgName: "exoticObjects/Slide6.PNG",
+                btns: [
+                    {
+                        x: 995,
+                        y: 600,
+                        w: 265,
+                        h: 95,
+                        dest: 6
+                    },
+                ],
+            },
+            {
+                name: "Neutron Stars 3",
+                imgName: "exoticObjects/Slide7.PNG",
+                btns: [
+                    {
+                        x: 30,
+                        y: 25,
+                        w: 265,
+                        h: 80,
+                        dest: 0
+                    },
+                ],
+            },
+            {
+                name: "Quasars 1",
+                imgName: "exoticObjects/Slide8.PNG",
+                btns: [
+                    {
+                        x: 995,
+                        y: 600,
+                        w: 265,
+                        h: 95,
+                        dest: 8
+                    },
+                ],
+            },{
+                name: "Quasars 2",
+                imgName: "exoticObjects/Slide9.PNG",
+                btns: [
+                    {
+                        x: 995,
+                        y: 600,
+                        w: 265,
+                        h: 95,
+                        dest: 9
+                    },
+                ],
+            },{
+                name: "Quasars 3",
+                imgName: "exoticObjects/Slide10.PNG",
+                btns: [
+                    {
+                        x: 995,
+                        y: 600,
+                        w: 265,
+                        h: 95,
+                        dest: 0
+                    },
+                    {
+                        x: 870,
+                        y: 55,
+                        w: 290,
+                        h: 180,
+                        dest: 1
+                    },
+                ],
+            },
+        ]
     },
     {
         name: "Life In Space"
