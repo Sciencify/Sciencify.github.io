@@ -391,14 +391,14 @@ window.setInterval(function(){
 function draw() {
   background(77,195,255);
   if(!isQuestion){
-    player.xVel = player.speed*(keys[RIGHT_ARROW] - keys[LEFT_ARROW]);
+    player.xVel = player.speed*(keys[68] - keys[65]);
     player.x += player.xVel;
     for(var i = 0; i < blocks.length; i++){
       player.x = blocks[i].collideX(player.x, player.y);
     }
 
     if(player.touchingGround){
-      if(keys[UP_ARROW]){
+      if(keys[87]){
         player.yVel = -15;
         player.touchingGround = false;
       }else{
